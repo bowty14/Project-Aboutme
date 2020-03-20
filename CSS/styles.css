@@ -1,7 +1,10 @@
 h1 {
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
-
+}
+p {
+  color: darkorange;
+}
 }
 body{
   font-size: medium;

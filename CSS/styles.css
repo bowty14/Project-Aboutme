@@ -6,6 +6,7 @@ body {
 }
 h5 {
   font-style: initial;
+  font-family: cursive;
   color: darkturquoise;
 }
 h1 {
@@ -19,6 +20,10 @@ p {
   text-shadow: 1px 0px 4px orange;
 }
 h2 {
+  Color: white;
+  font-family: fantasy;
+}
+h3 {
   Color: white;
   font-family: fantasy;
 }
@@ -52,4 +57,9 @@ h2 {
 #travel {
   color:white;
   text-decoration: none;
+}
+.kids {
+  max-height: 20%;
+  Width: 20%;
+  float: right;
 }

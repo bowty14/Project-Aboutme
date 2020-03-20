@@ -18,7 +18,13 @@ _This is a project webpage that I have built after a week of class with Epicodus
 
 ## Technologies Used
 
-This webpage was created with html, CSS, and some bootstrap elements.
+_This webpage was created with html, CSS, and some bootstrap elements_
+
+## Known Bugs
+
+_The text and images under 'hobbies and interests' is acting like a link when it should not be_
+_Pictures are not floating to correct location_
+_Rows are not acting as intended, and are stacked_
 
 ## Support and Contact Details
 

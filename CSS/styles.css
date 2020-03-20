@@ -59,12 +59,12 @@ h3 {
   text-decoration: none;
 }
 .kids {
-  max-height: 20%;
-  Width: 20%;
-  float: middle;
+  max-height: 10%;
+  Width: 10%;
+  float: left;
+  padding-right: 2vw;
 }
 .dog {
-  max-height: 20%;
-  width: 20%;
-  float: middle;
+  max-height: 10%;
+  width: 10%;
 }

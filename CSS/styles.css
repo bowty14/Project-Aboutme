@@ -30,11 +30,11 @@ h3 {
 .container {
   padding-right: 50%;
 }
-#blog{
+#blog {
   color: white;
   text-decoration: none;
 }
-#fav{
+#fav {
   color: white;
   text-decoration: none;
 }
@@ -61,5 +61,10 @@ h3 {
 .kids {
   max-height: 20%;
   Width: 20%;
-  float: right;
+  float: middle;
+}
+.dog {
+  max-height: 20%;
+  width: 20%;
+  float: middle;
 }

@@ -16,7 +16,37 @@ p {
   color: darkorange;
 }
 h2 {
+  Color: white;
+  font-family: fantasy;
 }
 .container {
   padding-right: 50%;
+}
+#blog{
+  color: white;
+  text-decoration: none;
+}
+#fav{
+  color: white;
+  text-decoration: none;
+}
+#first {
+  color: white;
+  text-decoration: none;
+}
+#cookie {
+  color: white;
+  text-decoration: none;
+}
+#cupcake {
+  color: white;
+  text-decoration: none;
+}
+#band {
+  color: white;
+  text-decoration: none;
+}
+#travel {
+  color:white;
+  text-decoration: none;
 }

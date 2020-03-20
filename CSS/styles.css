@@ -3,14 +3,9 @@ h1 {
   font-weight: bold;
 
 }
-.pinwheel {
-  float: right;
-}
-.Big3 {
-  float: center;
-}
-body {
-  background-image: url("https://images.fineartamerica.com/images-medium-large-5/forest-trail-brian-chase.jpg");
+body{
   font-size: medium;
-  color: ivory;
+  color: whitesmoke;
+  background-image: url("https://images.fineartamerica.com/images-medium-large-5/forest-trail-brian-chase.jpg");
+  background-size: cover;
 }

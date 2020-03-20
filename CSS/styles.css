@@ -1,19 +1,22 @@
 body {
   font-size: medium;
   color: whitesmoke;
-  background-image: url("https://images.fineartamerica.com/images-medium-large-5/forest-trail-brian-chase.jpg");
-  background-size: cover;
+  background-image: url("https://images.unsplash.com/photo-1505635725851-c2cfe9e29112?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+  background-size: contain; 
 }
 h5 {
   font-style: initial;
   color: darkturquoise;
 }
 h1 {
+  color: orange
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  text-shadow: 1px 0px 4px white;
 }
 p {
-  color: darkorange;
+  color: white;
+  text-shadow: 1px 0px 4px orange;
 }
 h2 {
   Color: white;

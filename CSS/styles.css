@@ -1,14 +1,15 @@
+body {
+  font-size: medium;
+  color: whitesmoke;
+  background-image: url("https://images.fineartamerica.com/images-medium-large-5/forest-trail-brian-chase.jpg");
+  opacity: 50%;
+  background-size: cover;
+}
+
 h1 {
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
 }
 p {
   color: darkorange;
-}
-}
-body{
-  font-size: medium;
-  color: whitesmoke;
-  background-image: url("https://images.fineartamerica.com/images-medium-large-5/forest-trail-brian-chase.jpg");
-  background-size: cover;
 }

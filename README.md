@@ -29,7 +29,7 @@ _Rows are not acting as intended, and are stacked_
 ## Support and Contact Details
 
 _For questions, concerns about this project please contact TAYLOR at taylorphillips133@gmail.com_
-
+_You can see this project at https://tayphill13.github.io/Project-Aboutme/_
 ### License
 
 *This software is licensed under the MIT license
